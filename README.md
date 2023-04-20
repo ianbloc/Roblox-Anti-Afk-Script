@@ -1,5 +1,6 @@
-# Roblox-Anti-Afk-Script
-Made by me ianbloc#8652
+# Roblox Anti Afk Script
+# Made by me ianbloc#8652
+
 Press ` to hide the menu.
 
 It will still work even when you hide it!
